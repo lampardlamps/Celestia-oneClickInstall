@@ -138,6 +138,9 @@ sudo systemctl daemon-reload
 sudo systemctl enable celestia-lightd
 sudo systemctl start celestia-lightd
 
+sleep 3s
+sudo systemctl status celestia-lightd
+
 
 
 
