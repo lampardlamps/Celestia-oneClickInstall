@@ -1,5 +1,5 @@
 # One click installation of Celestia light nodes
-(Tested on google cloud ubuntu version 20.04)
+(Tested on google cloud ubuntu versions 18.04 and 20.04)
 
 This is a script that installs all the necessary components to start a light node on the Celestia network, and sets up the systemd configuration. It can be easily adapted for all other node types and networks within the Celestia family.
 
